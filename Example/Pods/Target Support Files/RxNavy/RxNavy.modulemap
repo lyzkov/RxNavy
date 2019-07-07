@@ -1,0 +1,6 @@
+framework module RxNavy {
+  umbrella header "RxNavy-umbrella.h"
+
+  export *
+  module * { export * }
+}
