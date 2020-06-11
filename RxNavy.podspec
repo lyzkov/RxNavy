@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version          = '0.1.0'
   s.summary          = 'Reactive navigation through segues'
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+Reactive framework for navigation through segues.
                        DESC
 
   s.homepage         = 'https://github.com/lyzkov/RxNavy'
